@@ -1,0 +1,14 @@
+.tittle{
+    text-align: center;
+    margin: 70px 0 30px;
+    color: #212ea0;
+    
+}
+.tittle h3{
+    font-size: 15px;
+}
+.tittle h2{
+    font-size: 32px;
+    margin-top: 5px;
+    color: #000f38;
+}
